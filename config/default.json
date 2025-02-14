@@ -1,0 +1,10 @@
+{
+    "mongoURI": "",
+    "discordClientID": "",
+    "discordClientSecret": "",
+    "redirectURI": "http://localhost:8000/auth/discord",
+    "discordGuildID": "",
+    "openAIApiKey": "",
+    "serpaKey": "",
+    "discordBotToken": ""
+}
